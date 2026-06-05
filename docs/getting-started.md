@@ -143,6 +143,7 @@ Individual workspaces expose the same commands if you need a narrower scope.
 - Desktop architecture: `desktop-architecture.md`
 - Release playbook: `desktop-release.md`
 - Additional resources and inspiration: `resources.md`
+- NixOS build and system setup: `nixos.md`
 - Contributor conventions and workspace notes: `AGENTS.md` (repo root)
 
 ## License
