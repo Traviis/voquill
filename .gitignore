@@ -56,3 +56,10 @@ target/
 nul
 
 *.exe
+
+# Nix dev shell artifacts
+.direnv/
+
+# Nix
+result
+result-*
